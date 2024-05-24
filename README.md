@@ -1,1 +1,0 @@
-# ritcheyandai_stdin_to_file_i1
